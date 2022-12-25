@@ -3,17 +3,10 @@
 /workspace.xml
 .idea/
 .gradle/
-build/
-gradle/
 gradle-app.setting
-!gradle-wrapper.jar
-!gradle-wrapper.properties
 .gradletasknamecache
 .project
 .classpath
-gradlew.bat
-gradlew
-settings.gradle
 
 
 
